@@ -1,0 +1,17 @@
+RoomType;;60;;70;;Room;;
+Level;;30;;30;;Standard;;
+%BedType;;40;;50;;Double or Twin;;
+View;;80;;40;;none;;
+BedRooms;;70;;80;;none;;
+Building;;90;;100;;none;;
+Executive Level;;20;;10;;none;;
+Size;;10;;20;;none;;
+Persons;;50;;60;;Twin;;
+BathRooms;;75;;90;;none;;
+Sex;;25;;25;;none;;
+Beds;;26;;26;;none;;
+MultipleChoice;;999999;;999999;;0;;
+IsSmart;;35;;35;;none;;
+IsFamily;;51;;61;;none;;
+Balcony;;81;;71;;none;;
+Rooms;;69;;79;;none;;

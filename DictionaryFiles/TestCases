@@ -1,0 +1,158 @@
+%1为归为同一房型，2为归为不同房型，3房型可匹配，4指定翻译，结果都不可为“无法聚类”类别
+5;Standard Single Bed;Single Room
+5;standard queen(2 queen beds) room;2 bed room
+5;double or 2 bed and king;double and 2 bed or king
+5;sofabed room;standard room
+5;king room;king with sofabed room
+5;twin room 2 single beds;2 single bed room
+5;king bed and sofa bed;double with sofabed
+5;queen deluxe sea view room;deluxe ocean
+5;queen room;king room
+5;twin room;room
+5;king room;room
+5;1 king bed or two single bed room;standard room
+5;1 king and 2 single room;standard room
+5;1 king and 2 single room;double and 2 bed room
+5;twin;twin
+2;orchid suite;twin room st regis suite
+2;superior room without balcony;superior room
+2;Ocean Front Pool Villa;Ocean View Pool Villa
+2;Grand Deluxe;Premier Grand Deluxe
+2;Dormitory for 6person(one single bed);Dormitory for 4 person(one single bed)
+1;Dormitory for 6person(one single bed);Dormitory for 6 person(one single bed)
+1;superior semi-double aa;superior semi double room
+2;Double room Premier Grand deluxe AA;Grand Deluxe Room AA
+2;pool access deluxe room;deluxe
+2;高级双床C AA;Superior Double
+1;semi double room(double room)(t);semi/small double room
+1;waterfront;waterfront room
+1;standard heiwa view;heiwa view
+2;twin room;double room
+2;deluxe room;superior room
+4;deluxe room sea;deluxe room with sea view
+1;japanese style room;japanese style standard room
+1;standard triple room;triple room;
+3;family room with desert view
+2;deluxe room,bathtub,garden view(super);superior room with garden view
+2;deluxe room,sea view(super);superior room with sea view
+2;standard double room;1 single bed,standard room
+2;super deluxe;superior deluxe room
+2;double or twin family room;standard room
+2;standard village double;standard room
+2;junior suite - non-smoking;japanese junior suite room a
+2;6 bed mixed - dormitory single - 1 twin (single) bed;mixed 1 bed single bed single dormitory
+2;standard room - 2 double beds;standard room
+1;comfort room - breakfast included;comfort room
+2;double deluxe-superior;superior room
+2;super luxury ocean view;superior room with sea view
+2;ocean pool villa;villa with sea view
+2;double or twin  deluxe-royal a;deluxe double or twin
+2;japanese style without bathroom 10 tatami;tatami japanese style room
+2;deluxe king or twin chalet with premium all inclusive;premium chalet
+2;king executive suite special1;executive special room
+2;royal lagoon villa;royal villa
+2;grand ocean view with terrace special1;special room with sea view(terrace)
+2;deluxe ocean view w/ breakfast double(family plan);deluxe family room with sea view
+2;suite;cave suite
+1;standard town view;room view city view
+2;twin en-suite room;suite
+2;double room, 1 king bed, ensuite;suite
+2;semidouble room;twin room
+1;inner view room;interior view room
+2;ocean pool villa;pool view villa
+2;ocean pool villa;ocean view villa
+2;Capsule Twin Single;standard room
+2;5 bedroom suite;5 room suite
+4;2 room suite;suite two rooms
+4;3 bedroom suite;suite three bedrooms
+2;twin room;double room
+2;twin deluxe room;double deluxe room
+4;upper floor deluxe room;deluxe room(upper floor)
+2;balcony room;no balcony room
+1;run of house;selected at check in
+2;1 twin(single) bed - room green 1 pax;standard room
+1;selected at check-in;run of house
+4;run of house;selected at check-in
+2;3 bedroom pool villa;3 bedroom beach villa
+2;3 bedroom villa;3 bedroom beach villa
+2;Oceanfront Room;Sea view Room
+2;Deluxe Pool Access AA;Deluxe Room
+2;double room;queen room
+2;double room;king room
+2;queen room;king room
+%分割
+5;Superior King Bed;Superior King Bed
+5;Heritage Corner King;Heritage Corner Balcony King Room
+5;Superior King Bed;Superior King Bed
+5;Renovated King Room;Standard King Room
+5;Renovated King Room;Standard King Room
+5;Corner King Room with Balcony;Heritage Corner Balcony King Room
+5;Renovated King Room-Non Smoking;Standard King Room
+5;Superior King Bed;Superior King Bed
+5;HERITAGE CORNER-KING DOUBLE;Heritage Corner Balcony King Room
+5;Renovated King with Breakfast;Standard King Room
+5;Standard Double Room with Club Lounge Access - Non-Smoking;Standard Double Room with Club Lounge Access - Non-Smoking
+5;Superior Double Room - Room ONLY Exp AA;Superior King Bed
+5;Double Room;Superior King Bed
+5;Renovated King A;Standard King Room
+5;Superior King Bed;Superior King Bed
+5;Renovated King;Standard King Room
+5;DOUBLE HERITAGE CORNER-KING;Heritage Corner Balcony King Room
+5;Superior Double Room;Superior King Bed
+5;Heritage Corner Room;Heritage Corner Balcony King Room
+5;Superior Double Room - Roon Only - Non Refund Exp AA;Superior King Bed
+5;DOUBLE HERITAGE CORNER-KING;Heritage Corner Balcony King Room
+5;Superior King Bed(Non-cancelable,1);Superior King Bed
+5;Superior Double Room - Room ONLY Exp(Non-cancelable);Superior King Bed
+5;Double Heritage Corner-king;Heritage Corner Balcony King Room
+5;Superior Double Room - Roon Only - Non Refund Exp(Non-cancelable,4);Superior King Bed
+5;DOUBLE HERITAGE CORNER-KING A;Heritage Corner Balcony King Room
+5;Heritage Corner Room;Heritage Corner Balcony King Room
+5;Superior King Bed(m)(Non-cancelable,1);Superior King Bed
+5;Superior King Bed(Non-cancelable,12);Superior King Bed
+5;King Room;Standard King Room
+5;Superior King Bed(Non-cancelable,16);Superior King Bed
+5;Renovated King(Non-cancelable,1);Standard King Room
+5;Renovated King Room(Non-cancelable,1);Standard King Room
+5;客房, 1 张特大床 (Renovated) AB;Standard King Room
+5;Standard King Room;Standard King Room
+5;Renovated King;Standard King Room
+5;Queen - Non-Smoking;Queen Room
+5;Queen room;Queen Room
+5;Queen Room;Queen Room
+5;Queen Double;Queen Double Room
+5;DBL （QUEEN）;Queen Room
+5;SUPERIOR DOUBLE(QUEEN SIZE);Queen Room
+5;STANDARD  TWIN SINGLE USE;Queen Double Room
+5;STANDARD  TWIN ROOM;Queen Double Room
+5;Standard Twin Room;Queen Double Room
+5;STANDARD  DOUBLE SINGLE USE;Queen Double Room
+5;STANDARD  DOUBLE ROOM;Queen Double Room
+5;STANDARD  QUEEN BED ROOM;Queen Double Room
+5;Standard Double Room;Queen Double Room
+5;Queen (18㎡) A;Queen Room
+5;STANDARD  DOUBLE ROOM;Queen Double Room
+5;STANDARD  DOUBLE SINGLE USE;Queen Double Room
+5;STANDARD  TWIN ROOM;Queen Double Room
+5;STANDARD  TWIN SINGLE USE;Queen Double Room
+5;Standard Double Room;Queen Double Room
+5;STANDARD  QUEEN BED ROOM;Queen Double Room
+5;Double;Queen Room
+5;Queen Double - Smoking with Breakfast;Queen Double Room
+5;Queen Double Smoking;Queen Double Room
+5;Queen Double - Non-Smoking with Breakfas;Queen Double Room
+5;Queen Double Non-Smoking;Queen Double Room
+5;Standard Double AC;Queen Double Room
+5;Queen Double Room;Queen Double Room
+5;Queen Room - Non-Smoking - 60days early bird No Refund;Queen Room
+5;Queen Room - Non-Smoking - Special Offer Breakfast 1;Queen Room
+5;Queen Room - Non-Smoking - Special Offer;Queen Room
+5;Queen Room - Non-Smoking - Breakfast;Queen Room
+5;Twin bed room;Queen Double Room
+5;Double bed room;Queen Double Room
+5;Standard Twin;Queen Double Room
+5;Standard Double;Queen Double Room
+5;Queen Double Room - Non-Smoking;Queen Double Room
+5;Twin room;Queen Double Room
+5;Twin room (sole use);Queen Double Room
+5;Queen Double Room - Smoking;Queen Double Room

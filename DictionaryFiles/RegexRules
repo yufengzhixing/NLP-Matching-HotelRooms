@@ -1,0 +1,95 @@
+[\w]+[\s]+package[\s]+;;
+[\w]+[\s]+occupancy[\s]+;;
+[\w]+[\s]+use[\s]+;;
+[\w]+[\s]+plan[\s]+;;
+[\s]+individual pc[\s]+;; 
+[\s]+individual climate[\s]+;; 
+[\s]+individual use[\s]+;; 
+[\s]+private faciliti[\s]+;; 
+[\s]+special offer[\s]+;; 
+[\s]+special plan[\s]+;; 
+[\s]+plan special[\s]+;; 
+[\s]+special deal[\s]+;; 
+[\s]+special promotion[\s]+;; 
+[\s]+special rate[\s]+;; 
+[\s]+weekend special[\s]+;; 
+[\s]+special event[\s]+;; 
+[\s]+special discount[\s]+;; 
+[\s]+early special offer[\s]+;; 
+[\s]+early special[\s]+;; 
+[\s]+special flex[\s]+;; 
+[\s]+special flat rate[\s]+;; 
+[\s]+early bird special[\s]+;; 
+[\s]+special limited offer[\s]+;; 
+[\s]+weekday special plan[\s]+;; 
+[\s]+offer special[\s]+;; 
+[\s]+special promo[\s]+;; 
+[\s]+special flat ra[\s]+;; 
+[\s]+weekday special[\s]+;; 
+japanese western;;japanesewestern
+japanese-western;;japanesewestern
+[\s]+super saver[\s]+;; 
+[\s]+super sale[\s]+;; 
+[\s]+super low promotion[\s]+;; 
+[\s]+super advance purchase[\s]+;; 
+[\s]+super special[\s]+;; 
+[\s]+super advance saver[\s]+;; 
+[\s]+super deal[\s]+;; 
+[\s]+super hot deal[\s]+;; 
+[\s]+super sal[\s]+;; 
+[\s]+semi double[\s]+;; semidouble 
+[\s]+semi-double[\s]+;; semidouble 
+[\s]+no resort charge[\s]+;; 
+[\s]+no resort fee[\s]+;; 
+[\s]+flat panel tv[\s]+;; 
+[\s]+flat rate[\s]+;; 
+[\s]+flat deal[\s]+;; 
+[\s]+flat-tv[\s]+;; 
+[\s]+flat tv[\s]+;; 
+[\s]+flat screen tv[\s]+;; 
+[\s]+flat screen lcd tv[\s]+;; 
+[\s]+inch flat[\s]+;; 
+[\s]+flat scrn tv[\s]+;; 
+[\s]+flat screen cable tv[\s]+;; 
+[\s]+hd flat tv[\s]+;; 
+[\s]+lcd flat[\s]+;; 
+[\s]+flat ra[\s]+;; 
+[\s]+continental br[\s]+;; 
+[\s]+cont br[\s]+;; 
+[\s]+hot deal br[\s]+;; 
+[\s]+with br[\s]+;; 
+[\s]+full br[\s]+;; 
+[\s]+buffet br[\s]+;; 
+[\s]+superstart plus br[\s]+;; 
+[\s]+purchase br[\s]+;; 
+[\s]+daybreak br[\s]+;; 
+[\s]+cont br[\s]+;; 
+[\s]+free br[\s]+;; 
+[\s]+summer br[\s]+;; 
+[\s]+renovated in[\s]+;; 
+[\s]+contemporary renovated[\s]+;; 
+[\s]+holiday package[\s]+;; 
+[\s]+school holiday promo[\s+][\s]+;; 
+[\s]+school holiday promotion[\s]+;; 
+[\s]+holiday special[\s]+;; 
+[\s]+holiday promo[\s]+;; 
+[\s]+holiday deal[\s]+;; 
+[\s]+family holiday package[\s]+;; 
+[\s]+rejuvenating holiday retreat[\s]+;; 
+[\s]+holiday plan[\s]+;; 
+[\s]+holiday fun package[\s]+;; 
+[\s]+holiday sale[\s]+;; 
+[\s]+holiday escape[\s]+;; 
+[\s]+christmas holiday[\s]+;; 
+[\s]+holiday deal[\s]+;; 
+[\s]+holiday pckg[\s]+;; 
+[\s]+contemporary d¨¦cor[\s]+;; 
+[\s]+deluxe superior[\s]+;; superior deluxe 
+[\s]+standard 1 single bed[\s]+;; standard single 
+[\s]+en-suite[\s]+;; ensuite 
+[\s]+en suite[\s]+;; ensuite 
+\\;; or 
+[\s]+on dol[\s]+;; 
+[\s]+sofa bed[\s]+;; sofabed 
+[\s]+four poster[\s]+;; fourposter 
+[\s]+am-fm[\s]+;; 
